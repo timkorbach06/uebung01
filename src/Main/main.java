@@ -1,5 +1,7 @@
 package Main;
 
 public class main {
-	helloworld
+	public static void main(String [] args) {
+		System.out.println("main");
+	}
 }
