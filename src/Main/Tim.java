@@ -1,6 +1,6 @@
 package Main;
 
-public class main {
+public class Tim {
 	public static void main(String [] args) {
 		System.out.println("main");
 	}
